@@ -1,0 +1,19 @@
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\CAC\CAC\bin\Debug\CAC.exe.config
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\CAC\CAC\bin\Debug\CAC.exe
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\CAC\CAC\bin\Debug\CAC.pdb
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\CAC\CAC\obj\Debug\CAC.csprojResolveAssemblyReference.cache
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\CAC\CAC\obj\Debug\CAC.exe
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\CAC\CAC\obj\Debug\CAC.pdb
+d:\documents\users\sabagnit\Downloads\CAC\CAC\bin\Debug\CAC.exe.config
+d:\documents\users\sabagnit\Downloads\CAC\CAC\bin\Debug\CAC.exe
+d:\documents\users\sabagnit\Downloads\CAC\CAC\bin\Debug\CAC.pdb
+d:\documents\users\sabagnit\Downloads\CAC\CAC\obj\Debug\CAC.csprojResolveAssemblyReference.cache
+d:\documents\users\sabagnit\Downloads\CAC\CAC\obj\Debug\CAC.exe
+d:\documents\users\sabagnit\Downloads\CAC\CAC\obj\Debug\CAC.pdb
+C:\Users\nitza\Desktop\האקתון\CAC\CAC\bin\Debug\CAC.exe.config
+C:\Users\nitza\Desktop\האקתון\CAC\CAC\bin\Debug\CAC.exe
+C:\Users\nitza\Desktop\האקתון\CAC\CAC\bin\Debug\CAC.pdb
+C:\Users\nitza\Desktop\האקתון\CAC\CAC\obj\Debug\CAC.csprojResolveAssemblyReference.cache
+C:\Users\nitza\Desktop\האקתון\CAC\CAC\obj\Debug\CAC.csproj.CoreCompileInputs.cache
+C:\Users\nitza\Desktop\האקתון\CAC\CAC\obj\Debug\CAC.exe
+C:\Users\nitza\Desktop\האקתון\CAC\CAC\obj\Debug\CAC.pdb

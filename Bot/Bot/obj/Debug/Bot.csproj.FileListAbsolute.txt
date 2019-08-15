@@ -1,0 +1,18 @@
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\Bot\Bot\bin\Debug\Bot.exe.config
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\Bot\Bot\bin\Debug\Bot.exe
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\Bot\Bot\bin\Debug\Bot.pdb
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\Bot\Bot\obj\Debug\Bot.exe
+d:\documents\users\sabagnit\documents\visual studio 2017\Projects\Bot\Bot\obj\Debug\Bot.pdb
+d:\documents\users\sabagnit\Downloads\Bot\Bot\bin\Debug\Bot.exe.config
+d:\documents\users\sabagnit\Downloads\Bot\Bot\bin\Debug\Bot.exe
+d:\documents\users\sabagnit\Downloads\Bot\Bot\bin\Debug\Bot.pdb
+d:\documents\users\sabagnit\Downloads\Bot\Bot\obj\Debug\Bot.exe
+d:\documents\users\sabagnit\Downloads\Bot\Bot\obj\Debug\Bot.pdb
+d:\documents\users\sabagnit\Downloads\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\nitza\Desktop\האקתון\Bot\Bot\bin\Debug\Bot.exe.config
+C:\Users\nitza\Desktop\האקתון\Bot\Bot\bin\Debug\Bot.exe
+C:\Users\nitza\Desktop\האקתון\Bot\Bot\bin\Debug\Bot.pdb
+C:\Users\nitza\Desktop\האקתון\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\nitza\Desktop\האקתון\Bot\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\nitza\Desktop\האקתון\Bot\Bot\obj\Debug\Bot.exe
+C:\Users\nitza\Desktop\האקתון\Bot\Bot\obj\Debug\Bot.pdb

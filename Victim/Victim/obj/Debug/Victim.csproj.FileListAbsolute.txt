@@ -1,0 +1,7 @@
+C:\Users\nitza\Desktop\האקתון\Victim\Victim\bin\Debug\Victim.exe.config
+C:\Users\nitza\Desktop\האקתון\Victim\Victim\bin\Debug\Victim.exe
+C:\Users\nitza\Desktop\האקתון\Victim\Victim\bin\Debug\Victim.pdb
+C:\Users\nitza\Desktop\האקתון\Victim\Victim\obj\Debug\Victim.csprojResolveAssemblyReference.cache
+C:\Users\nitza\Desktop\האקתון\Victim\Victim\obj\Debug\Victim.csproj.CoreCompileInputs.cache
+C:\Users\nitza\Desktop\האקתון\Victim\Victim\obj\Debug\Victim.exe
+C:\Users\nitza\Desktop\האקתון\Victim\Victim\obj\Debug\Victim.pdb
